@@ -1,3 +1,3 @@
-## Hi, I'm Jonathan
+## Hi, I'm Johnny
 
 I'm a software engineering student. I build full-stack web apps, mostly with Next.js, and I'm currently learning native iOS development.
